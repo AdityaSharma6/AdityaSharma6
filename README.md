@@ -4,23 +4,30 @@ I'm a little busy squashing bugs at work, so pardon the mess around here.
 
 # Hey, I'm Aditya :wave: :octocat:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityasharma6/)](https://www.linkedin.com/in/adityasharma6/)
-[![Gmail Badge](https://img.shields.io/badge/-School_Email-brown?style=flat&logo=Gmail&logoColor=white&link=mailto:shara24@mcmaster.ca)](mailto:shara24@mcmaster.ca)
-[![Website Badge](https://img.shields.io/badge/-Personal_Website-black?style=flat&logo=Chrome&logoColor=white&link=https://adityasharma6.github.io/)](mailto:shara24@mcmaster.ca)
+[![Linkedin Badge](https://img.shields.io/badge/-adityasharma6-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityasharma6/)](https://www.linkedin.com/in/adityasharma6/)
+[![Gmail Badge](https://img.shields.io/badge/-shara24@mcmaster.ca-brown?style=flat&logo=Gmail&logoColor=white&link=mailto:shara24@mcmaster.ca)](mailto:shara24@mcmaster.ca)
+[![Website Badge](https://img.shields.io/badge/-adityasharma6.github.io-black?style=flat&logo=Bing&logoColor=white&link=https://adityasharma6.github.io/)](mailto:shara24@mcmaster.ca)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AdityaSharma6.AdityaSharma6)
 
 
-My name is Aditya and I'm about to start my 3rd year as a [Software and Biomedical Engineering](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=38&poid=20892) student over at McMaster University :computer: :hospital:  
-I also Freelance doing Digital Marketing and Software Development. So, feel free to shoot me an email if you wanna get in touch!
+My name is Aditya and I'm about to start my 3rd year as a [Software and Biomedical Engineering](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=38&poid=20892) student over at McMaster University. I also Freelance doing Digital Marketing and Software Development. So, feel free to shoot me an email if you wanna get in touch!
 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/AdityaSharma6)](https://github.com/AdityaSharma6) 
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java&logoColor=red)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=TypeScript)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=React)
+![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-purple?style=flat&logo=CSS3)
+![Azure Devops](https://img.shields.io/badge/-Azure_Devops-blue?style=flat&logo=azureDevops)
+
 
 
 ### Active Projects :computer: :hourglass_flowing_sand:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vaenthan18&repo=Glide)](https://github.com/vaenthan18/Glide)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaSharma6&repo=AdityaSharma6.github.io)](https://github.com/AdityaSharma6/AdityaSharma6.github.io)
 
-### GitHub Stats
+### GitHub Stats :chart_with_upwards_trend:
 ![Aditya's Github Stats](https://github-readme-stats.vercel.app/api?username=AdityaSharma6&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
