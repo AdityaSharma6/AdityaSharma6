@@ -1,12 +1,21 @@
 # UNDER DEVELOPMENT! PROCEED AT YOUR OWN RISK :exclamation: :warning:
 
+I'm a little busy squashing bugs at work, so pardon the mess around here. 
+
+# Welcome :octocat:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityasharma6/)](https://www.linkedin.com/in/adityasharma6/)
+[![Gmail Badge](https://img.shields.io/badge/-School_Email-brown?style=flat&logo=Gmail&logoColor=white&link=mailto:shara24@mcmaster.ca)](mailto:shara24@mcmaster.ca)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AdityaSharma6.AdityaSharma6)
 
 
-I'm a little busy squashing bugs at work, so pardon the mess around here.
+My name is Aditya. I'm entering my 3rd year as a [Software and Biomedical Engineering]() student over at McMaster University :computer: :hospital: 
 
-# Greetings Human :alien:
 
-Welcome to my humble abode :house: My name is Aditya.
+
+
+
+
 
 - 🔭 I’m currently working at ...
 - 🌱 I’m currently learning ...
@@ -17,13 +26,10 @@ Welcome to my humble abode :house: My name is Aditya.
 - ⚡ Fun fact: ...
 
 
-![Aditya's Github Stats](https://github-readme-stats.vercel.app/api?username=AdityaSharma6&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-
-### Experience
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+### Technologies
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -34,8 +40,16 @@ Welcome to my humble abode :house: My name is Aditya.
 
 
 
-## Active Projects :computer: :hourglass_flowing_sand:
+### Active Projects :computer: :hourglass_flowing_sand:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vaenthan18&repo=Glide)](https://github.com/vaenthan18/Glide)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaSharma6&repo=AdityaSharma6.github.io)](https://github.com/AdityaSharma6/AdityaSharma6.github.io)
+
+### GitHub Stats
+![Aditya's Github Stats](https://github-readme-stats.vercel.app/api?username=AdityaSharma6&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+
+
+
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AdityaSharma6.AdityaSharma6)
 <!--
