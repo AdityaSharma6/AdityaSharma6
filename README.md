@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-adityasharma6-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityasharma6/)](https://www.linkedin.com/in/adityasharma6/)
 [![Gmail Badge](https://img.shields.io/badge/-shara24@mcmaster.ca-brown?style=flat&logo=Gmail&logoColor=white&link=mailto:shara24@mcmaster.ca)](mailto:shara24@mcmaster.ca)
-[![Website Badge](https://img.shields.io/badge/-adityasharma6.github.io-black?style=flat&logo=Bing&logoColor=white&link=https://adityasharma6.github.io/)](mailto:shara24@mcmaster.ca)
+[![Website Badge](https://img.shields.io/badge/-adityasharma6.github.io-black?style=flat&logo=Bing&logoColor=white&link=https://adityasharma6.github.io/)](https://adityasharma6.github.io/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AdityaSharma6.AdityaSharma6)
 
 
