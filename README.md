@@ -6,7 +6,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AdityaSharma6.AdityaSharma6)
 
 
-It's great to meet you! My name is Aditya and I'm about to start my 3rd year as a [Software and Biomedical Engineering](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=38&poid=20892) student over at McMaster University. This summer, I've been... 
+It's great to meet you! My name is Aditya and I'm about to start my 3rd year as a [Software and Biomedical Engineering](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=38&poid=20892) student over at McMaster University. Currently, I'm working at CIBC as a Junior Full Stack Developer.
 
 These are some of the technologies that I'm proficient with. 
 
