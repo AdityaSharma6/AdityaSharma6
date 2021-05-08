@@ -6,7 +6,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AdityaSharma6.AdityaSharma6)
 
 
-It's great to meet you! My name is Aditya and I'm about to start my 3rd year as a [Software and Biomedical Engineering](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=38&poid=20892) student over at McMaster University. Currently, I'm working at CIBC as a Junior Full Stack Developer.
+It's great to meet you! My name is Aditya and I'm about to start my 4th year as a [Software and Biomedical Engineering](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=38&poid=20892) student over at McMaster University.
 
 These are some of the technologies that I'm proficient with. 
 
@@ -19,7 +19,7 @@ These are some of the technologies that I'm proficient with.
 ![CSS](https://img.shields.io/badge/-CSS3-purple?style=flat&logo=CSS3)
 ![Azure Devops](https://img.shields.io/badge/-Azure_Devops-blue?style=flat&logo=azureDevops)
 
-
+<!--
 ### Active Projects :computer: :hourglass_flowing_sand:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaSharma6&repo=AdityaSharma6.github.io)](https://github.com/AdityaSharma6/AdityaSharma6.github.io)
 
