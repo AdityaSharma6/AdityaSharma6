@@ -21,7 +21,7 @@ These are some of the technologies that I'm proficient with.
 
 <!--
 ### Active Projects :computer: :hourglass_flowing_sand:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaSharma6&repo=AdityaSharma6.github.io)](https://github.com/AdityaSharma6/AdityaSharma6.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaSharma6&repo=AdityaSharma6.github.io)](https://github.com/AdityaSharma6/AdityaSharma6.github.io) -->
 
 ### GitHub Stats :chart_with_upwards_trend:
 ![Aditya's Github Stats](https://github-readme-stats.vercel.app/api?username=AdityaSharma6&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
