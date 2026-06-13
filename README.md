@@ -7,37 +7,29 @@
 
 ---
 
-Full-stack engineer at Microsoft specializing in **backend engineering** — building distributed systems, APIs, and infrastructure at enterprise scale. Co-Founded SellStatic, where I led **product strategy** and **AI engineering** — taking an idea from zero to revenue.
+Software Engineer at Microsoft on the **Teams Graph API** — shipped across the **Monetization**, **Messaging**, and **Platform** teams. I've built REST APIs, end-to-end validation frameworks, Messaging APIs, Import Data APIs, and AI agents at Microsoft.
+
+Co-Founded **SellStatic**, where I created end-to-end product roadmaps, conducted customer interviews, led company direction, and built AI agents — as CPO, Co-Founder, and AI Engineer.
 
 ---
 
-### What I Bring
+### 🔧 Backend Engineering
 
-**🔧 Backend Engineering** — 4+ years building distributed backend services at Microsoft on Teams Graph Service. APIs serving ~33M daily requests, notification infrastructure handling millions of events/day, production ownership across Sev 1/Sev 2 incidents, and 48 weeks of cumulative on-call.
+- Shipped features on the **Chat & Delta Messaging APIs** serving **~33M daily requests** — CodeBlock, Delta Token V2, ReplyWithQuote
+- Engineered a **push notification system** on Cosmos DB + PubSub handling **millions of events/day** with **sub-1s latency**
+- Authored **120 automated migration tests** that became the **release-gating criterion** for all Import API releases
 
-**🤖 AI Engineering** — Built AI agent validation infrastructure across Microsoft 365 hosts (Word, Excel, PowerPoint, Teams, Outlook) using the M365 Agents SDK. At SellStatic, integrated 5 production AI models for autonomous content generation and designed agent lifecycle, evaluation, and reliability patterns for production.
+### 📐 Product & Leadership
 
-**📐 Product & Leadership** — As CPO and Co-Founder of SellStatic, defined the product roadmap, ran ~30 customer discovery interviews, built a 75+ metric KPI framework, and led a 14-person cross-functional team from concept to $1K+ MRR with a 1.2K user waitlist.
-
----
-
-### Highlights
-
-**@ Microsoft**
-- Shipped features on **Chat & Delta Messaging APIs** (~33M req/day) — CodeBlock, Delta Token V2, ReplyWithQuote
-- Built **end-to-end AI agent validation infra** across 5 M365 hosts — caught 3 release-blocking bugs, adopted by 5+ teams
-- Engineered a **push notification system** on Cosmos DB + PubSub — millions of events/day, sub-1s latency
-- Authored **120 automated migration tests** — now the release-gating criterion for all Import API releases
-- Shipped **RecapUI** spanning a Graph API contract change + Teams client rendering for 100K+ tenants
-- Resolved a **Sev 1 outage** blocking 2.2B notifications to 100K companies
-- Audited **355 feature flags**, built automated tooling, created 200+ ADO tasks to drive cleanup at scale
-
-**@ SellStatic**
-- Shipped from concept to **$1K+ MRR** and a **1.2K user waitlist** through 3 major pivots
-- Integrated **5 production AI models** for autonomous image & video generation
-- Designed **agent lifecycle management**, evaluation frameworks, and circuit breaker patterns
-- Built backend APIs in **Node.js, FastAPI, and .NET** with PostgreSQL, MongoDB, and Redis
+- Took SellStatic from concept to **$1K+ MRR** and a **1.2K user waitlist** through **3 major pivots**
+- Ran **~30 customer discovery interviews** and built a **75+ metric KPI framework** that drove product and fundraising decisions
 - Led a **14-person cross-functional team** across engineering, design, sales, and growth
+
+### 🤖 AI Engineering
+
+- Built **end-to-end AI agent validation infrastructure** across Word, Excel, PowerPoint, Teams & Outlook — caught **3 release-blocking bugs**, adopted by **5+ teams**
+- Shipped a standalone testing agent with the **Microsoft 365 Agents SDK** — reused as a template across the org
+- Integrated **5 production AI models** at SellStatic for autonomous content generation and designed **agent lifecycle, evaluation, and circuit breaker** patterns
 
 ---
 
