@@ -42,3 +42,7 @@ Full-stack engineer at Microsoft specializing in **backend engineering** — bui
 ---
 
 `TypeScript` `C#` `Python` `Go` `.NET` `Node.js` `FastAPI` `React` `Azure` `Cosmos DB` `PostgreSQL` `Redis` `Docker` `M365 Agents SDK` `LangChain` `RAG`
+
+---
+
+💬 Always happy to connect and discuss interesting opportunities — feel free to reach out via [LinkedIn](https://www.linkedin.com/in/adityasharma6/) or [email](mailto:aditya_sharma_@hotmail.com).
