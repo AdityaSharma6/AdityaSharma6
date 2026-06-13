@@ -1,58 +1,75 @@
-# Hey, I'm Aditya :wave: 
+# Hey, I'm Aditya 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-adityasharma6-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityasharma6/)](https://www.linkedin.com/in/adityasharma6/)
-[![Gmail Badge](https://img.shields.io/badge/-shara24@mcmaster.ca-brown?style=flat&logo=Gmail&logoColor=white&link=mailto:shara24@mcmaster.ca)](mailto:shara24@mcmaster.ca)
-[![Website Badge](https://img.shields.io/badge/-adityasharma6.github.io-black?style=flat&logo=Bing&logoColor=white&link=https://adityasharma6.github.io/)](https://adityasharma6.github.io/)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=AdityaSharma6.AdityaSharma6)
+**Software Engineer @ Microsoft** · **Ex Co-Founder & AI Engineer @ SellStatic** · **Toronto, ON**
 
+[![LinkedIn](https://img.shields.io/badge/-adityasharma6-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adityasharma6/)
+[![Email](https://img.shields.io/badge/-aditya__sharma__@hotmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:aditya_sharma_@hotmail.com)
+[![GitHub](https://img.shields.io/badge/-AdityaSharma6-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/AdityaSharma6)
 
-It's great to meet you! My name is Aditya and I'm about to start my 4th year as a [Software and Biomedical Engineering](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=38&poid=20892) student over at McMaster University.
+---
 
-These are some of the technologies that I'm proficient with. 
+### About Me
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
-![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java&logoColor=red)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=TypeScript)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=React)
-![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-purple?style=flat&logo=CSS3)
-![Azure Devops](https://img.shields.io/badge/-Azure_Devops-blue?style=flat&logo=azureDevops)
+I'm a software engineer with **4+ years at Microsoft** building enterprise-scale backend infrastructure, AI agent systems, and collaboration APIs that serve **tens of millions of daily requests**. I also co-founded **SellStatic**, an AI-driven ad generation platform where I wore the hats of CPO, Co-Founder, and AI Engineer — shipping from concept to **$1K+ MRR** with a **1.2K user waitlist**.
 
-<!--
-### Active Projects :computer: :hourglass_flowing_sand:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaSharma6&repo=AdityaSharma6.github.io)](https://github.com/AdityaSharma6/AdityaSharma6.github.io) -->
+I'm currently exploring opportunities in **Toronto** in **Backend Engineering**, **AI Engineering**, and **Forward Deployed Engineering**.
 
-### GitHub Stats :chart_with_upwards_trend:
+---
+
+### What I've Built
+
+**@ Microsoft — Teams Graph Service**
+- Shipped features on the **Chat & Delta Messaging APIs** serving **~33M daily requests**
+- Designed & built **end-to-end AI agent validation infrastructure** across Word, Excel, PowerPoint, Teams, and Outlook — adopted by **5+ teams**
+- Built a standalone testing agent with the **Microsoft 365 Agents SDK** — now reused as a template across the org
+- Engineered a **push notification system** handling **millions of events daily** on Cosmos DB + PubSub with **sub-1s latency**
+- Authored **120 automated migration tests** that became a **release-gating criterion** for all Import API releases
+- Shipped **RecapUI** for tenant migrations spanning a Graph API contract change + Teams client rendering (**100K+ tenants**)
+- Led the **Slack-to-Teams migration** front-end targeting **81M+ users** and **$324M+ ARR**
+
+**@ SellStatic — Co-Founder & AI Engineer**
+- Integrated **5 production AI models** (Seedance, Higgsfield, Gemini, Nanobanana, Kling) for image & video generation
+- Designed **agent lifecycle management**, **evaluation frameworks**, and **circuit breaker** patterns for production AI agents
+- Built backend APIs in **Node.js, FastAPI, and .NET** with PostgreSQL, MongoDB, and Redis
+- Led a **14-person cross-functional team** across engineering, design, sales, and growth
+
+---
+
+### Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+
+**Backend & Infrastructure**
+
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/-Cosmos_DB-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**AI & Agents**
+
+![M365 Agents SDK](https://img.shields.io/badge/-M365_Agents_SDK-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude_API-D4A574?style=flat-square&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
+
+---
+
+### GitHub Stats
+
 ![Aditya's Github Stats](https://github-readme-stats.vercel.app/api?username=AdityaSharma6&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-<!--
-This summer, I've been working as a ___ at ____ where I contributed to the _____.
-**AdityaSharma6/AdityaSharma6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![Aditya's Github Stats](https://github-readme-stats.vercel.app/api?username=AdityaSharma6&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-### Technologies
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
-
--->
