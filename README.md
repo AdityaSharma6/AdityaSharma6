@@ -1,6 +1,6 @@
 # Hey, I'm Aditya 👋
 
-**Full-Stack Software Engineer @ [Microsoft](https://microsoft.com)** · **Co-Founder, CPO & AI Engineer @ [SellStatic](https://sellstatic.com)**
+**Software Engineer @ [Microsoft](https://microsoft.com)** · **Co-Founder, CPO & AI Engineer @ [SellStatic](https://sellstatic.com)**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/adityasharma6/)
 [![Email](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail&logoColor=EA4335)](mailto:aditya_sharma_@hotmail.com)
