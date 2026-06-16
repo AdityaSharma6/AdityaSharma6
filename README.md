@@ -9,7 +9,7 @@
 
 Software Engineer at Microsoft on the **Teams Graph API** — shipped across the **Monetization**, **Messaging**, and **Platform** teams. I've built REST APIs, end-to-end validation frameworks, Messaging APIs, Import Data APIs, and AI agents at Microsoft.
 
-Co-Founded **SellStatic**, where I created end-to-end product roadmaps, conducted customer interviews, led company direction, and built AI agents — as CPO, Co-Founder, and AI Engineer.
+Co-Founded **SellStatic**, where I led **product strategy and company direction** end-to-end — roadmap, customer discovery, prioritization, specs, and cross-functional execution — while also building AI-powered product experiences.
 
 ---
 
@@ -21,15 +21,15 @@ Co-Founded **SellStatic**, where I created end-to-end product roadmaps, conducte
 
 ### 📐 Product & Leadership
 
-- Took SellStatic from concept to **$1K+ MRR** and a **1.2K user waitlist** through **3 major pivots**
-- Ran **~30 customer discovery interviews** and built a **75+ metric KPI framework** that drove product and fundraising decisions
-- Led a **14-person cross-functional team** across engineering, design, sales, and growth
+- Took SellStatic from concept to **$1K+ MRR** and a **1.2K user waitlist** through **3 major pivots**, owning roadmap, prioritization, and company direction
+- Ran **~30 customer discovery interviews** and translated insights into product specs, requirements, and shipped roadmap decisions
+- Built a **75+ metric KPI framework** and led a **14-person cross-functional team** across engineering, design, sales, and growth
 
 ### 🤖 AI Engineering
 
 - Built **end-to-end AI agent validation infrastructure** across Word, Excel, PowerPoint, Teams & Outlook — caught **3 release-blocking bugs**, adopted by **5+ teams**
 - Shipped a standalone testing agent with the **Microsoft 365 Agents SDK** — reused as a template across the org
-- Integrated **5 production AI models** at SellStatic for autonomous content generation and designed **agent lifecycle, evaluation, and circuit breaker** patterns
+- Built AI-powered product experiences at SellStatic by integrating **5 production AI models** and designing **agent lifecycle, evaluation, and circuit breaker** patterns
 
 ---
 
