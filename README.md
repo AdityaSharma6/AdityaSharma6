@@ -1,47 +1,29 @@
 # Hey, I'm Aditya 👋
 
-**Software Engineer @ [Microsoft](https://microsoft.com)** · **Ex CoFounder @ [SellStatic](https://sellstatic.com)**
+**Software Engineer @ [Microsoft](https://microsoft.com)** · **Open-source contributor to [GitHub Copilot CLI](https://github.com/github/copilot-cli)** · **Co-Founder @ [SellStatic](https://sellstatic.com)**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/adityasharma6/)
 [![Email](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail&logoColor=EA4335)](mailto:aditya_sharma_@hotmail.com)
 
----
+Software engineer building distributed systems, developer tooling, and AI products. At Microsoft, I work across AI infrastructure and Microsoft Teams APIs. I also contribute to GitHub Copilot CLI as a Microsoft Dual-Access Employee.
 
-Software Engineer at Microsoft on the **Teams Graph API** — shipped across the **Monetization**, **Messaging**, and **Platform** teams. I've built REST APIs, end-to-end validation frameworks, Messaging APIs, Import Data APIs, and AI agents at Microsoft.
+### Engineering
 
-Co-Founded **SellStatic**, where I led **product strategy and company direction** end-to-end — roadmap, customer discovery, prioritization, specs, and cross-functional execution — while also building AI-powered product experiences.
+- Built an agent evaluation framework that reduced error diagnosis time **4x per test**, was adopted by **5 business teams**, and caught **3 P0 bugs**.
+- Reduced E2E test runtimes from **8 hours to 1 hour** with selective Azure DevOps test runs, improving productivity for **15 engineers**.
+- Shipped four RESTful Messaging APIs handling **33M+ daily requests per API** and built a push notification system with **sub-second latency** across **1M+ daily events**.
+- Led front-end engineering for a Slack-to-Teams migration tool that migrated **16M+ messages across 100K+ tenants**, supporting a **$324M+ ARR** migration pipeline.
+- Authored **120+ automated tests** for the distributed-systems Import API, reducing uncaught regressions from **17 to 3** across three business teams.
 
----
+### SellStatic
 
-### 🔧 Backend Engineering
+- Co-founded and grew SellStatic to **$1K+ MRR** and a **1.2K-user waitlist** through **75 customer interviews**, while leading a **14-person cross-functional team**.
+- Shipped five GenAI features across **five AI models/LLMs** and five social platforms; an OCR- and heuristic-based evaluation framework improved output quality by **18%**.
+- Built a RAG customer-support chatbot using vector search, BM25, RRF fusion, and reranking; improved onboarding by **22%** and reduced support reachouts by **80%**.
+- Replaced external media-generation APIs with an in-house AI editor, improving retention by **37%** and reducing COGS by **43%**.
 
-- Shipped features on the **Chat & Delta Messaging APIs** serving **~33M daily requests** — CodeBlock, Delta Token V2, ReplyWithQuote
-- Engineered a **push notification system** on Cosmos DB + PubSub handling **millions of events/day** with **sub-1s latency**
-- Authored **120 automated migration tests** that became the **release-gating criterion** for all Import API releases
+### Stack
 
-- ### Frontend Engineering
-- Lead front-end development of the Slack-To-Teams migration product as the sole front-end engineer, shipping 80% of all features with my work directly powering the migration of 16M+ messages migrated 100K+ enterprise tenants
-- Frontend development effort lead to bringing in 81M+ users and #324M+ ARR
-- Shipped AI Powered Image and Video generation on SellStatic; generating hundreds of pieces of content per week and distributing it
+`Python` `C#` `TypeScript/JavaScript` `React` `.NET` `Node.js` `FastAPI` `Azure` `AWS` `GCP` `Cosmos DB` `PostgreSQL` `MongoDB` `Redis` `Grafana` `Azure DevOps` `LangChain` `LangGraph` `RAG`
 
-### 📐 Product & Leadership
-
-- Took SellStatic from concept to **$1K+ MRR** and a **1.2K user waitlist** through **3 major pivots**, owning roadmap, prioritization, and company direction
-- Ran **~30 customer discovery interviews** and translated insights into product specs, requirements, and shipped roadmap decisions
-- Built a **75+ metric KPI framework** and led a **14-person cross-functional team** across engineering, design, sales, and growth
-
-### 🤖 AI Engineering
-
-- Built **end-to-end AI agent validation infrastructure** across Word, Excel, PowerPoint, Teams & Outlook — caught **3 release-blocking bugs**, adopted by **5+ teams**
-- Shipped a standalone testing agent with the **Microsoft 365 Agents SDK** — reused as a template across the team
-- Built AI-powered product experiences at SellStatic by integrating **5 production AI models** and designing **agent lifecycle, evaluation, and circuit breaker** patterns
-- Developed an AI RAG Chatbot to improve customer onboarding experiences at SellStatic, improving response quality by 50% and reducing user cited friction by 33%
-- Designed an evaluation and guardrail framework for SellStatic’s image-generation pipeline using OCR and heuristic-based quality checks to enforce output quality on AI-generated images
-
----
-
-`TypeScript` `C#` `Python` `Go` `.NET` `Node.js` `FastAPI` `React` `Azure` `Cosmos DB` `PostgreSQL` `Redis` `Docker` `M365 Agents SDK` `LangChain` `RAG`
-
----
-
-💬 Always happy to connect and discuss interesting opportunities — feel free to reach out via [LinkedIn](https://www.linkedin.com/in/adityasharma6/) or [email](mailto:aditya_sharma_@hotmail.com).
+💬 Feel free to connect via [LinkedIn](https://www.linkedin.com/in/adityasharma6/) or [email](mailto:aditya_sharma_@hotmail.com).
